@@ -37,7 +37,7 @@ def main():
         print("2. Add Videos")
         print("3. Update Videos")
         print("4. Delete Videos")
-        print("5. exit app")
+        print("5. Exit app")
         choice = input("Enter your choice: ")
 
         match choice :
